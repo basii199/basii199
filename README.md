@@ -82,13 +82,13 @@
 
 ---
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=basii199.basii199" />
-</div>
+> 📝 *Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
 ---
 
-> 📝 *Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=basii199.basii199" />
+</div>
 
 ---
 
