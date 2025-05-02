@@ -19,7 +19,6 @@
   Passionate Frontend Developer with a knack for crafting seamless digital experiences using <strong>React</strong> and <strong>Next.js</strong>.<br>
   Currently diving into the backend world with <strong>NestJS</strong> and expanding my full-stack skills.<br>
   I love contributing to startups and working on exciting side projects that challenge me to grow.<br><br>
-  ⚡ Fun Fact: I debug with vibes and console.logs.
 </p>
 
 ###
