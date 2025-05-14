@@ -1,13 +1,4 @@
----
-###
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&pause=500&color=22D3EE&center=true&vCenter=true&width=435&lines=Hello+World!" alt="Typing SVG" />
-  </a>
-</div>
-
-###
 
 ---
 
@@ -75,6 +66,8 @@
   <img src="https://streak-stats.demolab.com?user=basii199&theme=algolia&hide_border=false&border_radius=5&order=3" height="220" />
 </div>
 
+<br />
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=basii199&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" height="192px"/>
 </div>
@@ -83,11 +76,4 @@
 
 > 📝 *Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.*
 
----
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=basii199.basii199" />
-</div>
-
----
 
